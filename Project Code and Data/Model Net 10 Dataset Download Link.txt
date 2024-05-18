@@ -1,0 +1,2 @@
+Az the dataset for ModelNet 10 is a big dataset, You can download it from here:
+https://modelnet.cs.princeton.edu/
